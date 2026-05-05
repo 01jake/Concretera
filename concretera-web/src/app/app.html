@@ -1,0 +1,8 @@
+@if (auth.isLoggedIn) {
+  <app-navbar (openPerfil)="perfilAbierto = true"></app-navbar>
+}
+<main [class.with-navbar]="auth.isLoggedIn">
+  <router-outlet></router-outlet>
+</main>
+<app-perfil-modal *ngIf="perfilAbierto" (closed)="perfilAbierto = false"></app-perfil-modal>
+<app-chat></app-chat>

@@ -1,0 +1,11 @@
+C:\Users\ang31\Concretera\Concretera.Core\bin\Debug\net9.0\Concretera.Core.deps.json
+C:\Users\ang31\Concretera\Concretera.Core\bin\Debug\net9.0\Concretera.Core.dll
+C:\Users\ang31\Concretera\Concretera.Core\bin\Debug\net9.0\Concretera.Core.pdb
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.AssemblyInfoInputs.cache
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.AssemblyInfo.cs
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.csproj.CoreCompileInputs.cache
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.dll
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\refint\Concretera.Core.dll
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.pdb
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\ref\Concretera.Core.dll

@@ -187,16 +187,16 @@ import { TruckService } from '../../../../core/services/truck.service';
     </div>
   `,
   styles: [`
-    .mapa-page {
-      padding: 24px;
-      max-width: 1600px;
-      margin: 0 auto;
-      height: calc(100vh - 56px);
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-      box-sizing: border-box;
-    }
+   .mapa-page {
+  padding: 24px;
+  max-width: 1600px;
+  margin: 0 auto;
+  height: calc(100dvh - 56px); 
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-sizing: border-box;
+}
 
     /* Header */
     .page-header {
@@ -208,7 +208,10 @@ import { TruckService } from '../../../../core/services/truck.service';
       flex-shrink: 0;
     }
 
-    .ph-left { display: flex; align-items: flex-start; gap: 16px; }
+    .ph-left { display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    flex-direction: column; }
 
     .btn-back {
       display: flex; align-items: center; gap: 6px;
@@ -308,14 +311,19 @@ import { TruckService } from '../../../../core/services/truck.service';
 
     /* Mapa */
     .mapa-container {
-      position: relative;
-      border-radius: 10px;
-      overflow: hidden;
-      border: 1px solid rgba(255,255,255,0.07);
-      min-height: 0;
-    }
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.07);
+  min-height: 400px; /* ← agrega esto */
+  flex: 1;
+}
 
-    .mapa-container google-map { display: block; height: 100%; }
+.mapa-container google-map { 
+  display: block; 
+  height: 100%;
+  min-height: 400px; /* ← agrega esto */
+}
 
     /* Info overlay */
     .camion-info-overlay {
@@ -365,11 +373,17 @@ import { TruckService } from '../../../../core/services/truck.service';
     .spinner-sm { width: 16px; height: 16px; border: 2px solid rgba(255,255,255,0.1); border-top-color: #3b82f6; border-radius: 50%; animation: spin 0.7s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    @media (max-width: 900px) {
-      .main-layout { grid-template-columns: 1fr; }
-      .sidebar { max-height: 200px; }
-      .mapa-page { height: auto; }
-    }
+  @media (max-width: 900px) {
+  .main-layout { grid-template-columns: 1fr; }
+  .sidebar { max-height: 200px; }
+  .mapa-page { 
+    height: auto; 
+    min-height: calc(100dvh - 56px); 
+  }
+  .mapa-container {
+    min-height: 350px; 
+  }
+}
   `]
 })
 export class MapaConductoresComponent implements OnInit, OnDestroy {

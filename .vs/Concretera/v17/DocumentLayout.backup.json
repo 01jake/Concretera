@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ang31\\Concretera\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F174CDE-A07E-4E33-B731-95F0C075864E}|Concretera.Infrastructure\\Concretera.Infrastructure.csproj|c:\\users\\ang31\\concretera\\concretera.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F174CDE-A07E-4E33-B731-95F0C075864E}|Concretera.Infrastructure\\Concretera.Infrastructure.csproj|solutionrelative:concretera.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|c:\\users\\ang31\\concretera\\concretera.api\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|solutionrelative:concretera.api\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F174CDE-A07E-4E33-B731-95F0C075864E}|Concretera.Infrastructure\\Concretera.Infrastructure.csproj|c:\\users\\ang31\\concretera\\concretera.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F174CDE-A07E-4E33-B731-95F0C075864E}|Concretera.Infrastructure\\Concretera.Infrastructure.csproj|solutionrelative:concretera.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|c:\\users\\ang31\\concretera\\concretera.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|solutionrelative:concretera.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|c:\\users\\ang31\\concretera\\concretera.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|c:\\users\\ang31\\concretera\\concretera.api\\controllers\\conductorviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|solutionrelative:concretera.api\\controllers\\conductorviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|c:\\users\\ang31\\concretera\\concretera.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|solutionrelative:concretera.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{376FA851-97F9-42D7-A8E9-FEB4FFD3F4E9}|Concretera.API\\Concretera.API.csproj|c:\\users\\ang31\\concretera\\concretera.api\\hubs\\despachohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,21 +84,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FacturasController.cs",
-              "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\FacturasController.cs",
-              "RelativeDocumentMoniker": "Concretera.API\\Controllers\\FacturasController.cs",
-              "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\FacturasController.cs",
-              "RelativeToolTip": "Concretera.API\\Controllers\\FacturasController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAIAwwGQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T22:33:24.472Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -121,15 +108,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MantenimientosController.cs",
-              "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\MantenimientosController.cs",
-              "RelativeDocumentMoniker": "Concretera.API\\Controllers\\MantenimientosController.cs",
-              "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\MantenimientosController.cs",
-              "RelativeToolTip": "Concretera.API\\Controllers\\MantenimientosController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAwK4AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Concretera.API\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Concretera.API\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAwAwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T20:36:10.929Z"
+              "WhenOpened": "2026-05-03T22:33:24.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConductorViewController.cs",
               "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\ConductorViewController.cs",
               "RelativeDocumentMoniker": "Concretera.API\\Controllers\\ConductorViewController.cs",
@@ -182,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Concretera.Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Concretera.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T21:04:25.444Z",
               "EditorCaption": ""
@@ -196,6 +184,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Program.cs",
+              "RelativeDocumentMoniker": "Concretera.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Program.cs",
+              "RelativeToolTip": "Concretera.API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T20:43:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MantenimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\MantenimientosController.cs",
+              "RelativeDocumentMoniker": "Concretera.API\\Controllers\\MantenimientosController.cs",
+              "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\MantenimientosController.cs",
+              "RelativeToolTip": "Concretera.API\\Controllers\\MantenimientosController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwK4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T20:36:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Concretera.API\\Controllers\\ClientesController.cs",
@@ -205,18 +218,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T19:03:23.475Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Program.cs",
-              "RelativeDocumentMoniker": "Concretera.API\\Program.cs",
-              "ToolTip": "C:\\Users\\ang31\\Concretera\\Concretera.API\\Program.cs",
-              "RelativeToolTip": "Concretera.API\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T20:43:31.268Z"
             },
             {
               "$type": "Document",

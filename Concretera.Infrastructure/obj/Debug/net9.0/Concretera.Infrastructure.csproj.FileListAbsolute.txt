@@ -15,3 +15,4 @@ C:\Users\ang31\Concretera\Concretera.Infrastructure\obj\Debug\net9.0\refint\Conc
 C:\Users\ang31\Concretera\Concretera.Infrastructure\obj\Debug\net9.0\Concretera.Infrastructure.pdb
 C:\Users\ang31\Concretera\Concretera.Infrastructure\obj\Debug\net9.0\Concretera.Infrastructure.genruntimeconfig.cache
 C:\Users\ang31\Concretera\Concretera.Infrastructure\obj\Debug\net9.0\ref\Concretera.Infrastructure.dll
+C:\Users\ang31\Concretera\Concretera.Infrastructure\obj\Debug\net9.0\Concretera.Infrastructure.sourcelink.json

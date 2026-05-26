@@ -242,5 +242,8 @@ main.with-navbar {
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
-  main.with-navbar { padding-top: 0; padding-bottom: 64px; }
+  main.with-navbar { 
+    padding-top: 56px;  
+    padding-bottom: 64px; 
+  }
 }

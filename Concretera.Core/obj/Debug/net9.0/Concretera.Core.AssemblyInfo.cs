@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Concretera.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d01e3e7cfb84274ce40a6b124fde061350496bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Concretera.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Concretera.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

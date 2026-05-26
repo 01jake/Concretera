@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Concretera</string>
+    <string name="title_activity_main">Concretera</string>
+    <string name="package_name">com.concretera.app</string>
+    <string name="custom_url_scheme">com.concretera.app</string>
+</resources>

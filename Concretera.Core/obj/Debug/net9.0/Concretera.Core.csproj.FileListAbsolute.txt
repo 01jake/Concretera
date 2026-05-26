@@ -9,3 +9,4 @@ C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.dll
 C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\refint\Concretera.Core.dll
 C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.pdb
 C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\ref\Concretera.Core.dll
+C:\Users\ang31\Concretera\Concretera.Core\obj\Debug\net9.0\Concretera.Core.sourcelink.json
